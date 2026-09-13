@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hi, I'm Pari 👋
 
-<!--
-**paricode-web/paricode-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Frontend Developer
 
-Here are some ideas to get you started:
+I build modern, responsive web applications with **React, Next.js, and TypeScript**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+
+* React
+* Next.js
+* TypeScript
+* JavaScript
+* Tailwind CSS
+* Prisma
+* Zustand
+* NextAuth
+* Git & GitHub
+
+### 🚀 Featured Project
+
+**Lumina Vitray — E-commerce Platform**
+
+A full-stack e-commerce application for handmade stained glass artwork.
+
+**Highlights:**
+
+* Authentication & authorization
+* Product management
+* Shopping cart with Zustand
+* Checkout and order flow
+* Server-side price and stock validation
+* Admin dashboard
+* Payment flow simulation
+* Responsive UI
+* Prisma database integration
+
+[View Lumina Vitray →](https://github.com/paricode-web/lumina-vitray)
+
+### 🎯 Currently Learning
+
+* Advanced Next.js
+* TypeScript
+* Web Security
+* UI/UX fundamentals
+
+### 📫 Connect with me
+
+GitHub: [@paricode-web](https://github.com/paricode-web)
